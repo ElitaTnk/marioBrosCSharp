@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/Derecha.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/Festejando.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/Paralizado.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/Pensando.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/AmarillaChica.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/AzulChica.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/Distraido.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/Fantasma.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/fondo.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/mario.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/star.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/goomba.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/superfont.spritefont</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/mario-caminando.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/mario-quieto.png</File>
+    <File>C:/Users/Eliana Rodriguez/Desktop/Minions/MinionsGame/Content/super-mario-bros.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

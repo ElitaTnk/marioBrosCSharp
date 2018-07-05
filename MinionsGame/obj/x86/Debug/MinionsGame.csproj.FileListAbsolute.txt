@@ -1,0 +1,136 @@
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\AmarillaChica.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\AzulChica.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Derecha.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Distraido.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Fantasma.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.png
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Derecha.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\MinionsGame.exe
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\MinionsGame.pdb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\obj\x86\Debug\MinionsGame.csprojResolveAssemblyReference.cache
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\obj\x86\Debug\MinionsGame.csproj.CoreCompileInputs.cache
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\obj\x86\Debug\MinionsGame.exe
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\obj\x86\Debug\MinionsGame.pdb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\AmarillaChica.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\AzulChica.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Distraido.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Fantasma.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\BigFont.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\Consolas78.xnb
+e:\gabriel\documents\visual studio 2017\Projects\MinionsGame\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\Stats.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\obj\x86\Debug\MinionsGame.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\obj\x86\Debug\MinionsGame.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AmarillaChica.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AzulChica.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Derecha.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Distraido.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fantasma.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.png
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\BigFont.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\Consolas78.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\Stats.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AmarillaChica.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AzulChica.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Derecha.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Distraido.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fantasma.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.xnb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\MinionsGame.exe
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\MinionsGame.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Minions\MinionsGame\obj\x86\Debug\MinionsGame.csprojResolveAssemblyReference.cache
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AmarillaChica.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AzulChica.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Derecha.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Distraido.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fantasma.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.png
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\BigFont.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\Consolas78.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fonts\Stats.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AmarillaChica.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\AzulChica.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Derecha.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Distraido.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Fantasma.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MinionsGame.exe
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MinionsGame.pdb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MinionsGame.csprojResolveAssemblyReference.cache
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MinionsGame.exe
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MinionsGame.pdb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\fondo.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\mario.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\goomba.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\mario-quieto.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\mario-caminando.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\star.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\superfont.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\super-mario-bros.wma
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\super-mario-bros.xnb
