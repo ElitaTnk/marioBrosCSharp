@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using System;
 
-namespace MinionsGame
+namespace MarioPixel
 {
     public abstract class Sprite:Updatable
     {

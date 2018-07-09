@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 
-namespace MinionsGame
+namespace MarioPixel
 {
     public class EnemyFabric : FabricBase
     {
@@ -15,9 +15,8 @@ namespace MinionsGame
         {
             if (gameTime.TotalGameTime.Subtract(tiempoanterior).Seconds > 2)
             {
-                Phantom goomba = new Phantom(new Point(rnd.Next(
-                    Game1.Instance.graphics.GraphicsDevice.Viewport.Width
-                    ), 0));
+                Goomba goomba = new Goomba(new Point(Game1.Instance.graphics.GraphicsDevice.Viewport.Width,
+                    Game1.Instance.graphics.GraphicsDevice.Viewport.Height - Game1.Instance.graphics.GraphicsDevice.Viewport.Height/4)); 
                 Game1.Instance.newSprites.Add(goomba);
                 tiempoanterior = gameTime.TotalGameTime;
             }

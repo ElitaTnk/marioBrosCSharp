@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MinionsGame
+namespace MarioPixel
 {
 #if WINDOWS || LINUX
     /// <summary>

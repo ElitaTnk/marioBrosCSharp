@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
 
-namespace MinionsGame
+namespace MarioPixel
 {
     public class Star : MultiImageSprite
     {
@@ -25,26 +25,27 @@ namespace MinionsGame
 
         public override void Update(GameTime gameTime)
         {
-            int x = Location.X;
-            int y = Location.Y;
 
-            x--;
+            //caida
+            int X = Location.X;
+            int Y = Location.Y;
+            Y++;
+
+
             //destruyo el que se sale de pantalla
-            if (y > 2 * Game1.Instance.graphics.GraphicsDevice.Viewport.Height || x > 2 * Game1.Instance.graphics.GraphicsDevice.Viewport.Width)
+            if (Y > 2 * Game1.Instance.graphics.GraphicsDevice.Viewport.Height)
             {
                 Game1.Instance.newSprites.Add(this);
                 return;
             }
 
-            
-
-            Location = new Point(x,y);    //actualizo su posicion
+            Location = new Point(X, Y);    //actualizo su posicion
 
             foreach (var item in Game1.Instance.Sprites)
             {
-                if (item is Minion)
+                if (item is Mario)
                 {
-                    Minion mario = item as Minion;
+                    Mario mario = item as Mario;
                     if (Rectangle.Intersects(mario.Rectangle))
                     {
                        

@@ -4,9 +4,9 @@ using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 
-namespace MinionsGame
+namespace MarioPixel
 {
-    public class Minion:HealtySprite
+    public class Mario:HealtySprite
     {
         public enum states{ normal, saltando, camina }
 
@@ -15,7 +15,7 @@ namespace MinionsGame
         public Texture2D VidaObj;
 
         
-        public Minion(Point? location = null, Point? speed = null)
+        public Mario(Point? location = null, Point? speed = null)
         {
             if (location != null)
                 Location = location.Value;
@@ -35,7 +35,6 @@ namespace MinionsGame
 
         bool saltando;
         bool caminando;
-        bool quieto;
         int posYAnterior;
         int posXAnterior;
 

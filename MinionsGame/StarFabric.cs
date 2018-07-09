@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 
-namespace MinionsGame
+namespace MarioPixel
 {
     public class StarFabric : FabricBase
     {
@@ -17,8 +17,9 @@ namespace MinionsGame
         {
             if (gameTime.TotalGameTime.Subtract(tiempoanterior).Seconds > 1.5)
             {
-                Star Estrellitas = new Star(new Point(Game1.Instance.graphics.GraphicsDevice.Viewport.Width,
-                    (rnd.Next(Game1.Instance.graphics.GraphicsDevice.Viewport.Height - Game1.Instance.graphics.GraphicsDevice.Viewport.Height / 4))));
+                Star Estrellitas = new Star(new Point(rnd.Next(
+                    Game1.Instance.graphics.GraphicsDevice.Viewport.Width
+                    ), 0));
                 Game1.Instance.newSprites.Add(Estrellitas);
                 tiempoanterior = gameTime.TotalGameTime;
     

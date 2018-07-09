@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace MinionsGame
+namespace MarioPixel
 {
-    public class Phantom : MultiImageSprite
+    public class Goomba : MultiImageSprite
     {
 
-        public Phantom(Point location)
+        public Goomba(Point location)
         {
             Location = location;
             images.Add(0, Game1.Instance.Content.Load<Texture2D>("goomba"));
@@ -22,27 +22,29 @@ namespace MinionsGame
 
         public override void Update(GameTime gameTime)
         {
-           //caida
-            int Y = Location.Y;
-            Y++;      
-            
 
+            int x = Location.X;
+            int y = Location.Y;
+
+            x--;
             //destruyo el que se sale de pantalla
-            if (Y > 2 * Game1.Instance.graphics.GraphicsDevice.Viewport.Height)
+            if (y > 2 * Game1.Instance.graphics.GraphicsDevice.Viewport.Height ||
+                x > 2 * Game1.Instance.graphics.GraphicsDevice.Viewport.Width)
             {
                 Game1.Instance.newSprites.Add(this);
                 return;
             }
 
-            Location = new Point(Location.X, Y);    //actualizo su posicion
+            Location = new Point(x, y);    //actualizo su posicion
 
             foreach (var item in Game1.Instance.Sprites)
             {
-                if (item is Minion)
+                if (item is Mario)
                 {
-                    Minion mario = item as Minion;
+                    Mario mario = item as Mario;
                     if (Rectangle.Intersects(mario.Rectangle))
                     {
+                        
                         //hubo colision, descuento vida y 
                         //destruyo el enemigo
                         mario.Health -= 20;

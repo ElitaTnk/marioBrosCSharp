@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 
-namespace MinionsGame
+namespace MarioPixel
 {
     public abstract class MultiImageSprite: Sprite
     {

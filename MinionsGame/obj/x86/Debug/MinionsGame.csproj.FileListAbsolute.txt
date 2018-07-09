@@ -102,8 +102,6 @@ C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Cont
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Festejando.xnb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Paralizado.xnb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\Pensando.xnb
-C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MinionsGame.exe
-C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MinionsGame.pdb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.dll
@@ -123,8 +121,6 @@ C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Shar
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MinionsGame.csprojResolveAssemblyReference.cache
-C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MinionsGame.exe
-C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MinionsGame.pdb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\fondo.xnb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\mario.xnb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\goomba.xnb
@@ -134,3 +130,7 @@ C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Cont
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\superfont.xnb
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\super-mario-bros.wma
 C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\Content\super-mario-bros.xnb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MarioPixel.exe
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\bin\Windows\x86\Debug\MarioPixel.pdb
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MarioPixel.exe
+C:\Users\Eliana Rodriguez\Desktop\Minions\MinionsGame\obj\x86\Debug\MarioPixel.pdb

@@ -5,7 +5,7 @@ using Microsoft.Xna.Framework.Media;
 using System;
 using System.Collections.Generic;
 
-namespace MinionsGame
+namespace MarioPixel
 {
     /// <summary>
     /// This is the main type for your game.
@@ -65,7 +65,7 @@ namespace MinionsGame
             MainFont = this.Content.Load<SpriteFont>("Fonts/Stats");
 
 
-            Sprites.Add(new Minion(new Point(0,310), new Point(12,20)));
+            Sprites.Add(new Mario(new Point(0,310), new Point(12,20)));
             Sprites.Add(new EnemyFabric());
             Sprites.Add(new StarFabric());
 
